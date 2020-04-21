@@ -1,2 +1,2 @@
 # Projects-Fortune-Adekogbe
-A repo containing projects carried out by me.
+A repo containing projects carried out by Fortune Adekogbe. 
