@@ -1,4 +1,4 @@
-# Projects-Fortune-Adekogbe
+# AXA MANSARD INSURANCE CLAIM CHALLENGE
 
 Description of the challenge:
 
