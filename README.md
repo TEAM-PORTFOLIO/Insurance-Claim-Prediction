@@ -9,3 +9,5 @@ You have been appointed as the Lead Data Analyst to build a predictive model to 
 The model will be based on the building characteristics. The target variable, Claim, is a:
 
 1 if the building has at least a claim over the insured period. 0 if the building doesn’t have a claim over the insured period.
+
+#Rank: 34/389
